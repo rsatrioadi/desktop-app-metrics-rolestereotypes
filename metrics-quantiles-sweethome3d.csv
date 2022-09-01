@@ -1,0 +1,247 @@
+roleStereotype,metric,q1,q2,q3,mean
+Controller,cbo,10.5,14.0,24.0,22.81578947368421
+Controller,cboModified,25.5,34.5,46.0,47.05263157894737
+Controller,fanin,10.5,19.5,27.5,24.236842105263158
+Controller,fanout,10.5,14.0,24.0,22.81578947368421
+Controller,wmc,28.0,42.0,145.0,144.28947368421052
+Controller,dit,1.0,2.0,3.0,4.394736842105263
+Controller,noc,0.0,0.0,0.0,0.18421052631578946
+Controller,rfc,24.5,47.0,97.0,103.26315789473684
+Controller,lcom*,0.7924020199999999,0.8553241,0.8946727,0.7875750910526317
+Controller,tcc,0.14166667,0.24923077,0.32407406,0.2785977145675675
+Controller,lcc,0.375,0.73333335,0.8888889,0.6263220001081081
+Controller,totalMethodsQty,14.0,22.5,34.5,37.36842105263158
+Controller,publicMethodsQty,8.5,17.0,22.5,21.31578947368421
+Controller,privateMethodsQty,1.0,2.0,10.0,12.31578947368421
+Controller,abstractMethodsQty,0.0,0.0,0.0,0.02631578947368421
+Controller,finalMethodsQty,0.0,0.0,0.0,0.07894736842105263
+Controller,totalFieldsQty,8.5,14.0,16.5,18.55263157894737
+Controller,publicFieldsQty,0.0,0.0,0.0,0.07894736842105263
+Controller,privateFieldsQty,8.5,13.5,16.5,18.473684210526315
+Controller,finalFieldsQty,4.0,5.0,7.5,8.342105263157896
+Controller,nosi,1.0,6.5,14.5,22.473684210526315
+Controller,loc,140.0,240.0,700.5,789.8684210526316
+Controller,returnQty,4.0,10.5,24.5,20.44736842105263
+Controller,loopQty,0.0,2.0,15.5,13.973684210526315
+Controller,comparisonsQty,6.0,14.5,42.0,44.973684210526315
+Controller,tryCatchQty,0.0,0.0,0.0,2.236842105263158
+Controller,parenthesizedExpsQty,0.0,1.0,9.5,12.473684210526315
+Controller,stringLiteralsQty,0.0,1.5,6.0,28.5
+Controller,numbersQty,2.0,9.5,41.5,82.10526315789474
+Controller,assignmentsQty,17.0,39.5,130.0,124.63157894736842
+Controller,mathOperationsQty,0.0,4.0,11.5,41.44736842105263
+Controller,variablesQty,16.5,38.5,109.5,99.3157894736842
+Controller,maxNestedBlocksQty,2.0,3.5,5.0,3.710526315789474
+Controller,anonymousClassesQty,0.0,0.0,2.0,5.473684210526316
+Controller,innerClassesQty,1.0,2.0,3.5,4.184210526315789
+Controller,lambdasQty,0.0,0.0,0.0,0.0
+Controller,uniqueWordsQty,100.5,114.0,202.0,207.26315789473685
+Controller,ratio_publicMethods,0.6180555555555556,0.7894088669950738,0.8798076923076923,0.7163271101571775
+Controller,ratio_privateMethods,0.043560606060606064,0.14285714285714285,0.34523809523809523,0.22147118609740515
+Controller,ratio_publicFields,0.0,0.0,0.0,0.005791505791505791
+Controller,ratio_privateFields,1.0,1.0,1.0,0.9942084942084942
+Coordinator,cbo,2.0,5.0,11.0,7.809523809523809
+Coordinator,cboModified,3.0,7.0,27.0,18.571428571428573
+Coordinator,fanin,0.0,2.0,9.0,10.761904761904763
+Coordinator,fanout,2.0,5.0,11.0,7.809523809523809
+Coordinator,wmc,5.0,9.0,40.0,37.23809523809524
+Coordinator,dit,2.0,2.0,3.0,2.7142857142857144
+Coordinator,noc,0.0,0.0,0.0,0.047619047619047616
+Coordinator,rfc,6.0,9.0,42.0,31.904761904761905
+Coordinator,lcom*,0.0,0.41666666,0.6428572,0.3980900923809524
+Coordinator,tcc,0.230432375,0.397869685,0.83333335,0.4713619545
+Coordinator,lcc,0.31666667,0.85060975,1.0,0.6601475540000001
+Coordinator,totalMethodsQty,4.0,6.0,12.0,12.714285714285714
+Coordinator,publicMethodsQty,3.0,4.0,9.0,10.571428571428571
+Coordinator,privateMethodsQty,0.0,0.0,2.0,1.5238095238095237
+Coordinator,abstractMethodsQty,0.0,0.0,0.0,0.42857142857142855
+Coordinator,finalMethodsQty,0.0,0.0,0.0,0.2857142857142857
+Coordinator,totalFieldsQty,1.0,3.0,7.0,6.190476190476191
+Coordinator,publicFieldsQty,0.0,0.0,0.0,0.0
+Coordinator,privateFieldsQty,1.0,3.0,7.0,6.190476190476191
+Coordinator,finalFieldsQty,0.0,2.0,4.0,2.3333333333333335
+Coordinator,nosi,0.0,0.0,5.0,4.0476190476190474
+Coordinator,loc,34.0,52.0,304.0,201.23809523809524
+Coordinator,returnQty,0.0,2.0,5.0,5.857142857142857
+Coordinator,loopQty,0.0,0.0,2.0,3.9047619047619047
+Coordinator,comparisonsQty,0.0,2.0,13.0,12.619047619047619
+Coordinator,tryCatchQty,0.0,0.0,1.0,0.7142857142857143
+Coordinator,parenthesizedExpsQty,0.0,0.0,1.0,1.0
+Coordinator,stringLiteralsQty,0.0,0.0,2.0,4.571428571428571
+Coordinator,numbersQty,0.0,1.0,4.0,17.80952380952381
+Coordinator,assignmentsQty,3.0,6.0,22.0,28.952380952380953
+Coordinator,mathOperationsQty,0.0,0.0,5.0,6.095238095238095
+Coordinator,variablesQty,3.0,5.0,22.0,22.238095238095237
+Coordinator,maxNestedBlocksQty,1.0,1.0,3.0,2.238095238095238
+Coordinator,anonymousClassesQty,0.0,0.0,3.0,1.2380952380952381
+Coordinator,innerClassesQty,0.0,0.0,1.0,1.0952380952380953
+Coordinator,lambdasQty,0.0,0.0,0.0,0.0
+Coordinator,uniqueWordsQty,29.0,74.0,132.0,86.66666666666667
+Coordinator,ratio_publicMethods,0.75,0.8372093023255814,1.0,0.8118182133083442
+Coordinator,ratio_privateMethods,0.0,0.0,0.16666666666666666,0.10682823517003703
+Coordinator,ratio_publicFields,0.0,0.0,0.0,0.0
+Coordinator,ratio_privateFields,1.0,1.0,1.0,1.0
+Information Holder,cbo,0.0,1.0,5.0,3.185022026431718
+Information Holder,cboModified,0.0,2.0,9.0,7.960352422907489
+Information Holder,fanin,0.0,0.0,0.0,4.775330396475771
+Information Holder,fanout,0.0,1.0,5.0,3.185022026431718
+Information Holder,wmc,0.0,4.0,12.0,11.753303964757709
+Information Holder,dit,1.0,1.0,2.0,1.524229074889868
+Information Holder,noc,0.0,0.0,0.0,0.04405286343612335
+Information Holder,rfc,0.0,0.0,12.5,9.85022026431718
+Information Holder,lcom*,0.0,0.33333334,0.67261908,0.3471262282378854
+Information Holder,tcc,0.24453733,0.35714287,0.58362572,0.43051314335915514
+Information Holder,lcc,0.33333334,0.5833333,1.0,0.6193855869788735
+Information Holder,totalMethodsQty,0.0,4.0,8.5,6.722466960352423
+Information Holder,publicMethodsQty,0.0,3.0,8.0,5.9823788546255505
+Information Holder,privateMethodsQty,0.0,0.0,0.0,0.5903083700440529
+Information Holder,abstractMethodsQty,0.0,0.0,0.0,0.21145374449339208
+Information Holder,finalMethodsQty,0.0,0.0,0.0,0.09691629955947137
+Information Holder,totalFieldsQty,0.0,2.0,6.0,4.4449339207048455
+Information Holder,publicFieldsQty,0.0,0.0,0.0,0.11894273127753303
+Information Holder,privateFieldsQty,0.0,2.0,6.0,4.325991189427313
+Information Holder,finalFieldsQty,0.0,0.0,1.0,2.2246696035242293
+Information Holder,nosi,0.0,0.0,1.0,2.0176211453744495
+Information Holder,loc,1.0,23.0,55.0,50.83259911894273
+Information Holder,returnQty,0.0,1.0,4.0,3.9383259911894273
+Information Holder,loopQty,0.0,0.0,0.0,0.30837004405286345
+Information Holder,comparisonsQty,0.0,0.0,1.0,2.6343612334801763
+Information Holder,tryCatchQty,0.0,0.0,0.0,0.07048458149779736
+Information Holder,parenthesizedExpsQty,0.0,0.0,0.0,1.2378854625550662
+Information Holder,stringLiteralsQty,0.0,0.0,0.0,2.105726872246696
+Information Holder,numbersQty,0.0,0.0,2.0,7.506607929515418
+Information Holder,assignmentsQty,0.0,3.0,13.0,10.933920704845814
+Information Holder,mathOperationsQty,0.0,0.0,1.0,4.643171806167401
+Information Holder,variablesQty,0.0,2.0,10.0,8.123348017621145
+Information Holder,maxNestedBlocksQty,0.0,0.0,1.0,0.6607929515418502
+Information Holder,anonymousClassesQty,0.0,0.0,0.0,0.11894273127753303
+Information Holder,innerClassesQty,0.0,0.0,0.0,0.09251101321585903
+Information Holder,lambdasQty,0.0,0.0,0.0,0.0
+Information Holder,uniqueWordsQty,19.0,30.0,55.5,50.21145374449339
+Information Holder,ratio_publicMethods,0.861904761904762,1.0,1.0,0.9005308300118594
+Information Holder,ratio_privateMethods,0.0,0.0,0.1111111111111111,0.07930255903819224
+Information Holder,ratio_publicFields,0.0,0.0,0.0,0.02845300834431269
+Information Holder,ratio_privateFields,1.0,1.0,1.0,0.9715469916556875
+Interfacer,cbo,5.0,9.0,17.5,12.634920634920634
+Interfacer,cboModified,6.5,16.0,28.5,22.19047619047619
+Interfacer,fanin,0.0,4.0,11.5,9.555555555555555
+Interfacer,fanout,5.0,9.0,17.5,12.634920634920634
+Interfacer,wmc,11.0,22.0,48.0,37.714285714285715
+Interfacer,dit,5.0,5.0,7.0,6.73015873015873
+Interfacer,noc,0.0,0.0,0.0,0.1111111111111111
+Interfacer,rfc,16.0,46.0,84.0,60.76190476190476
+Interfacer,lcom*,0.41888894,0.6253229,0.8,0.5591383326984126
+Interfacer,tcc,0.2,0.486363635,1.0,0.553830789037037
+Interfacer,lcc,0.213636365,0.5582417749999999,1.0,0.571809600148148
+Interfacer,totalMethodsQty,4.5,8.0,14.0,11.365079365079366
+Interfacer,publicMethodsQty,2.0,2.0,5.0,4.809523809523809
+Interfacer,privateMethodsQty,1.0,4.0,8.0,5.904761904761905
+Interfacer,abstractMethodsQty,0.0,0.0,0.0,0.6190476190476191
+Interfacer,finalMethodsQty,0.0,0.0,0.0,0.0
+Interfacer,totalFieldsQty,1.5,6.0,17.0,11.793650793650794
+Interfacer,publicFieldsQty,0.0,0.0,0.0,0.09523809523809523
+Interfacer,privateFieldsQty,1.0,6.0,17.0,11.698412698412698
+Interfacer,finalFieldsQty,0.0,1.0,2.0,1.9365079365079365
+Interfacer,nosi,3.5,15.0,30.0,20.92063492063492
+Interfacer,loc,102.0,278.0,576.0,397.8888888888889
+Interfacer,returnQty,0.0,1.0,4.0,3.9365079365079363
+Interfacer,loopQty,0.0,0.0,2.0,2.126984126984127
+Interfacer,comparisonsQty,1.0,5.0,15.5,11.984126984126984
+Interfacer,tryCatchQty,0.0,0.0,1.5,1.2380952380952381
+Interfacer,parenthesizedExpsQty,0.0,1.0,3.0,2.873015873015873
+Interfacer,stringLiteralsQty,2.5,12.0,26.5,19.904761904761905
+Interfacer,numbersQty,3.0,31.0,172.5,107.38095238095238
+Interfacer,assignmentsQty,9.5,29.0,53.0,41.285714285714285
+Interfacer,mathOperationsQty,0.0,2.0,9.5,9.285714285714286
+Interfacer,variablesQty,9.0,26.0,49.0,36.53968253968254
+Interfacer,maxNestedBlocksQty,1.0,2.0,3.5,2.365079365079365
+Interfacer,anonymousClassesQty,2.0,8.0,15.0,11.26984126984127
+Interfacer,innerClassesQty,0.0,1.0,2.0,1.3968253968253967
+Interfacer,lambdasQty,0.0,0.0,0.0,0.0
+Interfacer,uniqueWordsQty,78.0,115.0,202.0,155.96825396825398
+Interfacer,ratio_publicMethods,0.2596153846153846,0.4,0.75,0.5051987658021361
+Interfacer,ratio_privateMethods,0.11805555555555555,0.5657142857142857,0.7100840336134454,0.4475217329169394
+Interfacer,ratio_publicFields,0.0,0.0,0.0,0.026234567901234566
+Interfacer,ratio_privateFields,1.0,1.0,1.0,0.9737654320987653
+Service Provider,cbo,1.5,3.0,7.0,6.591194968553459
+Service Provider,cboModified,2.0,5.0,15.5,12.735849056603774
+Service Provider,fanin,0.0,0.0,4.5,6.144654088050315
+Service Provider,fanout,1.5,3.0,7.0,6.591194968553459
+Service Provider,wmc,3.0,5.0,19.5,20.471698113207548
+Service Provider,dit,1.0,1.0,2.5,1.9119496855345912
+Service Provider,noc,0.0,0.0,0.0,0.09433962264150944
+Service Provider,rfc,1.0,6.0,18.0,18.540880503144653
+Service Provider,lcom*,0.0,0.0,0.6,0.25480729742138364
+Service Provider,tcc,0.0,0.33333334,1.0,0.43097970467716534
+Service Provider,lcc,0.0,0.33333334,1.0,0.4580986361732283
+Service Provider,totalMethodsQty,2.0,2.0,5.5,5.710691823899371
+Service Provider,publicMethodsQty,1.0,2.0,3.5,3.8867924528301887
+Service Provider,privateMethodsQty,0.0,0.0,1.0,1.3584905660377358
+Service Provider,abstractMethodsQty,0.0,0.0,0.0,0.5031446540880503
+Service Provider,finalMethodsQty,0.0,0.0,0.0,0.031446540880503145
+Service Provider,totalFieldsQty,0.0,1.0,3.0,2.0440251572327046
+Service Provider,publicFieldsQty,0.0,0.0,0.0,0.06289308176100629
+Service Provider,privateFieldsQty,0.0,1.0,3.0,1.9811320754716981
+Service Provider,finalFieldsQty,0.0,0.0,1.0,1.050314465408805
+Service Provider,nosi,0.0,0.0,3.0,5.0754716981132075
+Service Provider,loc,12.0,21.0,82.5,104.20125786163523
+Service Provider,returnQty,0.0,1.0,3.5,3.238993710691824
+Service Provider,loopQty,0.0,0.0,1.0,2.006289308176101
+Service Provider,comparisonsQty,0.0,1.0,4.0,5.817610062893082
+Service Provider,tryCatchQty,0.0,0.0,1.0,0.9559748427672956
+Service Provider,parenthesizedExpsQty,0.0,0.0,1.0,4.0
+Service Provider,stringLiteralsQty,0.0,0.0,2.0,16.37735849056604
+Service Provider,numbersQty,0.0,0.0,4.0,23.32704402515723
+Service Provider,assignmentsQty,0.0,2.0,13.0,18.82389937106918
+Service Provider,mathOperationsQty,0.0,0.0,2.0,7.748427672955975
+Service Provider,variablesQty,0.0,2.0,10.0,13.924528301886792
+Service Provider,maxNestedBlocksQty,0.0,1.0,3.0,1.8364779874213837
+Service Provider,anonymousClassesQty,0.0,0.0,0.0,0.5283018867924528
+Service Provider,innerClassesQty,0.0,0.0,0.0,0.3333333333333333
+Service Provider,lambdasQty,0.0,0.0,0.0,0.0
+Service Provider,uniqueWordsQty,27.0,36.0,68.0,68.0125786163522
+Service Provider,ratio_publicMethods,0.6666666666666666,1.0,1.0,0.8122752006189662
+Service Provider,ratio_privateMethods,0.0,0.0,0.09307359307359307,0.10332975262048086
+Service Provider,ratio_publicFields,0.0,0.0,0.0,0.014285714285714285
+Service Provider,ratio_privateFields,1.0,1.0,1.0,0.9857142857142857
+Structurer,cbo,3.0,5.0,9.5,7.473684210526316
+Structurer,cboModified,5.0,11.5,27.0,26.5
+Structurer,fanin,0.0,4.5,18.0,19.026315789473685
+Structurer,fanout,3.0,5.0,9.5,7.473684210526316
+Structurer,wmc,7.0,13.0,52.5,44.31578947368421
+Structurer,dit,1.0,2.0,2.0,1.894736842105263
+Structurer,noc,0.0,0.0,0.0,0.631578947368421
+Structurer,rfc,7.0,14.0,43.0,38.76315789473684
+Structurer,lcom*,0.3875,0.6742424499999999,0.8600733,0.5870483626315789
+Structurer,tcc,0.08628098249999999,0.179166665,0.6363636,0.354382071736842
+Structurer,lcc,0.14242425,0.30384616,1.0,0.4713004304210526
+Structurer,totalMethodsQty,4.5,9.5,15.5,17.57894736842105
+Structurer,publicMethodsQty,4.0,7.0,9.5,13.578947368421053
+Structurer,privateMethodsQty,0.0,0.5,3.5,2.736842105263158
+Structurer,abstractMethodsQty,0.0,0.0,0.0,0.15789473684210525
+Structurer,finalMethodsQty,0.0,0.0,0.0,0.0
+Structurer,totalFieldsQty,2.0,3.0,7.0,9.710526315789474
+Structurer,publicFieldsQty,0.0,0.0,0.0,0.15789473684210525
+Structurer,privateFieldsQty,1.0,2.5,6.5,9.289473684210526
+Structurer,finalFieldsQty,0.0,1.0,3.5,5.394736842105263
+Structurer,nosi,0.0,2.0,5.5,8.157894736842104
+Structurer,loc,33.0,65.5,247.0,211.81578947368422
+Structurer,returnQty,2.0,5.0,14.0,12.657894736842104
+Structurer,loopQty,0.0,0.0,4.0,4.631578947368421
+Structurer,comparisonsQty,1.0,2.0,13.0,11.526315789473685
+Structurer,tryCatchQty,0.0,0.0,1.5,2.3947368421052633
+Structurer,parenthesizedExpsQty,0.0,0.0,2.5,4.368421052631579
+Structurer,stringLiteralsQty,0.0,1.0,4.0,9.81578947368421
+Structurer,numbersQty,0.5,3.0,7.5,15.368421052631579
+Structurer,assignmentsQty,3.0,8.0,36.0,36.078947368421055
+Structurer,mathOperationsQty,0.0,1.0,3.5,12.447368421052632
+Structurer,variablesQty,3.0,5.0,30.0,27.36842105263158
+Structurer,maxNestedBlocksQty,1.0,2.0,3.0,2.5
+Structurer,anonymousClassesQty,0.0,0.0,1.5,1.894736842105263
+Structurer,innerClassesQty,0.0,0.0,1.0,0.3684210526315789
+Structurer,lambdasQty,0.0,0.0,0.0,0.0
+Structurer,uniqueWordsQty,41.0,64.5,157.0,120.39473684210526
+Structurer,ratio_publicMethods,0.7846153846153847,0.8452380952380952,1.0,0.7872837651896072
+Structurer,ratio_privateMethods,0.0,0.029411764705882353,0.1846590909090909,0.11769559594048085
+Structurer,ratio_publicFields,0.0,0.0,0.0,0.02915030415030415
+Structurer,ratio_privateFields,1.0,1.0,1.0,0.9245533995533997
